@@ -1,0 +1,4181 @@
+{
+    "SpecificCharacterSet": "ISO_IR 100",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "NORM",
+        "DIS2D"
+    ],
+    "InstanceCreationDate": "2018-05-01",
+    "InstanceCreationTime": "12:34:58.328000",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.4",
+    "SOPInstanceUID": "1.3.12.2.1107.5.2.43.66024.2018050112345219150785884",
+    "StudyDate": "2018-05-01",
+    "SeriesDate": "2018-05-01",
+    "AcquisitionDate": "2018-05-01",
+    "ContentDate": "2018-05-01",
+    "StudyTime": "12:21:56.958000",
+    "SeriesTime": "12:34:58.325000",
+    "AcquisitionTime": "12:29:26.202500",
+    "ContentTime": "12:34:58.328000",
+    "AccessionNumber": "",
+    "Modality": "Magnetic Resonance",
+    "Manufacturer": "SIEMENS",
+    "InstitutionName": "Tel-Aviv University",
+    "InstitutionAddress": "Street StreetNo,.,District,IL,ZIP",
+    "ReferringPhysicianName": {},
+    "StationName": "AWP66024",
+    "StudyDescription": "YA_lab^Assi",
+    "SeriesDescription": "MPRAGE_EnchancedContrast",
+    "InstitutionalDepartmentName": "Department",
+    "PerformingPhysicianName": {},
+    "OperatorsName": {
+        "name_prefix": "",
+        "given_name": "",
+        "middle_name": "",
+        "family_name": "Irina",
+        "name_suffix": ""
+    },
+    "ManufacturerModelName": "Prisma",
+    "ReferencedImageSequence": [
+        "(0008, 0000) Group Length                        UL: 94\n(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage\n(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.43.66024.2018050112252319243384484",
+        "(0008, 0000) Group Length                        UL: 94\n(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage\n(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.43.66024.2018050112252924221684490",
+        "(0008, 0000) Group Length                        UL: 94\n(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage\n(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.43.66024.201805011225546895684518"
+    ],
+    "PatientName": {
+        "name_prefix": "",
+        "given_name": "John",
+        "middle_name": "",
+        "family_name": "Doe",
+        "name_suffix": ""
+    },
+    "PatientID": "0123",
+    "PatientBirthDate": "1990-12-14",
+    "PatientSex": "Male",
+    "PatientAge": 27.0,
+    "PatientSize": 1.86,
+    "PatientWeight": 67.0,
+    "BodyPartExamined": "BRAIN",
+    "ScanningSequence": [
+        "Gradient Recalled",
+        "Inversion Recovery"
+    ],
+    "SequenceVariant": [
+        "Segmented k-Space",
+        "Spoiled",
+        "MAG Prepared"
+    ],
+    "ScanOptions": "IR",
+    "MRAcquisitionType": "3D",
+    "SequenceName": "*tfl3d1_16",
+    "AngioFlag": "N",
+    "SliceThickness": 1.0,
+    "RepetitionTime": 2530.0,
+    "EchoTime": 2.88,
+    "InversionTime": 1100.0,
+    "NumberOfAverages": 1.0,
+    "ImagingFrequency": 123.259922,
+    "ImagedNucleus": "1H",
+    "EchoNumbers": 1,
+    "MagneticFieldStrength": 3.0,
+    "NumberOfPhaseEncodingSteps": 223,
+    "EchoTrainLength": 1,
+    "PercentSampling": 100.0,
+    "PercentPhaseFieldOfView": 100.0,
+    "PixelBandwidth": 180.0,
+    "DeviceSerialNumber": "66024",
+    "SoftwareVersions": "syngo MR E11",
+    "ProtocolName": "MPRAGE_EnchancedContrast",
+    "TransmitCoilName": "Body",
+    "AcquisitionMatrix": [
+        224,
+        0,
+        0,
+        224
+    ],
+    "InPlanePhaseEncodingDirection": "COL",
+    "FlipAngle": 7.0,
+    "VariableFlipAngleFlag": "N",
+    "SAR": 0.03689092420801,
+    "dBdt": 0.0,
+    "PatientPosition": "Head First-Supine",
+    "": "SIEMENS MR HEADER",
+    "CsaImageHeaderType": "IMAGE NUM 4",
+    "CsaImageHeaderVersion??": "1.0",
+    "SliceMeasurementDuration": 320605.0,
+    "GradientMode": null,
+    "FlowCompensation": "No",
+    "TablePositionOrigin": "b'\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\"\\xfb\\xff\\xff'",
+    "ImaAbsTablePosition": "b'\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x17\\xfb\\xff\\xff'",
+    "ImaRelTablePosition": "0\\0\\-11",
+    "SlicePosition_PCS": "b'K\\xff\\xb3b\\x8f\\x89Z\\xc0k\\x8e\\xde6\\xb4\\xadd\\xc0Nh\\xab\\xf5\\xf2\\x17K\\xc0'",
+    "SliceResolution": "1",
+    "RealDwellTime": "12400",
+    "StudyInstanceUID": "1.3.12.2.1107.5.2.43.66024.30000018050107081466900000007",
+    "SeriesInstanceUID": "1.3.12.2.1107.5.2.43.66024.2018050112292448685185667.0.0.0",
+    "StudyID": "1",
+    "SeriesNumber": 3,
+    "AcquisitionNumber": 1,
+    "InstanceNumber": 1,
+    "ImagePositionPatient": [
+        -106.14937655628,
+        -165.42824882477,
+        -65.187102036914
+    ],
+    "ImageOrientationPatient": [
+        0.99870369284896,
+        0.05032736481528,
+        0.00762169538944,
+        -0.0436043085196,
+        0.92313913270623,
+        -0.3819853478144
+    ],
+    "FrameOfReferenceUID": "1.3.12.2.1107.5.2.43.66024.2.20180501122433844.0.0.0",
+    "PositionReferenceIndicator": "",
+    "SliceLocation": -120.50857950407,
+    "SamplesPerPixel": 1,
+    "PhotometricInterpretation": "MONOCHROME2",
+    "Rows": 224,
+    "Columns": 224,
+    "PixelSpacing": [
+        1.0,
+        1.0
+    ],
+    "BitsAllocated": 16,
+    "BitsStored": 12,
+    "HighBit": 11,
+    "PixelRepresentation": 0,
+    "SmallestImagePixelValue": 0,
+    "LargestImagePixelValue": 243,
+    "WindowCenter": 101.0,
+    "WindowWidth": 260.0,
+    "WindowCenterWidthExplanation": "Algo1",
+    "CsaImageHeaderVersion": "20180501",
+    "CsaImageHeaderInfo": {
+        "EchoLinePosition": {
+            "index": 0,
+            "VR": "IS",
+            "VM": 1,
+            "value": 112
+        },
+        "EchoColumnPosition": {
+            "index": 1,
+            "VR": "IS",
+            "VM": 1,
+            "value": 112
+        },
+        "EchoPartitionPosition": {
+            "index": 2,
+            "VR": "IS",
+            "VM": 1,
+            "value": 104
+        },
+        "UsedChannelMask": {
+            "index": 3,
+            "VR": "UL",
+            "VM": 1,
+            "value": null
+        },
+        "UsedChannelString": {
+            "index": 4,
+            "VR": "UT",
+            "VM": 1,
+            "value": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+        "Actual3DImaPartNumber": {
+            "index": 5,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "ICE_Dims": {
+            "index": 6,
+            "VR": "LO",
+            "VM": 1,
+            "value": "X_1_1_1_1_1_1_1_1_1_1_1_100"
+        },
+        "B_value": {
+            "index": 7,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "Filter1": {
+            "index": 8,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "Filter2": {
+            "index": 9,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "ProtocolSliceNumber": {
+            "index": 10,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "RealDwellTime": {
+            "index": 11,
+            "VR": "IS",
+            "VM": 1,
+            "value": 12400
+        },
+        "PixelFile": {
+            "index": 12,
+            "VR": "UN",
+            "VM": 1,
+            "value": null
+        },
+        "PixelFileName": {
+            "index": 13,
+            "VR": "UN",
+            "VM": 1,
+            "value": null
+        },
+        "SliceMeasurementDuration": {
+            "index": 14,
+            "VR": "DS",
+            "VM": 1,
+            "value": 320605.0
+        },
+        "SequenceMask": {
+            "index": 15,
+            "VR": "UL",
+            "VM": 1,
+            "value": 134217728
+        },
+        "AcquisitionMatrixText": {
+            "index": 16,
+            "VR": "SH",
+            "VM": 1,
+            "value": "224*224"
+        },
+        "MeasuredFourierLines": {
+            "index": 17,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "FlowEncodingDirection": {
+            "index": 18,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "FlowVenc": {
+            "index": 19,
+            "VR": "FD",
+            "VM": 1,
+            "value": null
+        },
+        "PhaseEncodingDirectionPositive": {
+            "index": 20,
+            "VR": "IS",
+            "VM": 1,
+            "value": 1
+        },
+        "NumberOfImagesInMosaic": {
+            "index": 21,
+            "VR": "US",
+            "VM": 1,
+            "value": null
+        },
+        "DiffusionGradientDirection": {
+            "index": 22,
+            "VR": "FD",
+            "VM": 3,
+            "value": null
+        },
+        "ImageGroup": {
+            "index": 23,
+            "VR": "US",
+            "VM": 1,
+            "value": null
+        },
+        "SliceNormalVector": {
+            "index": 24,
+            "VR": "FD",
+            "VM": 3,
+            "value": null
+        },
+        "DiffusionDirectionality": {
+            "index": 25,
+            "VR": "CS",
+            "VM": 1,
+            "value": null
+        },
+        "TimeAfterStart": {
+            "index": 26,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "FlipAngle": {
+            "index": 27,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "SequenceName": {
+            "index": 28,
+            "VR": "SH",
+            "VM": 1,
+            "value": null
+        },
+        "RepetitionTime": {
+            "index": 29,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "EchoTime": {
+            "index": 30,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "NumberOfAverages": {
+            "index": 31,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelThickness": {
+            "index": 32,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelPhaseFOV": {
+            "index": 33,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelReadoutFOV": {
+            "index": 34,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelPositionSag": {
+            "index": 35,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelPositionCor": {
+            "index": 36,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelPositionTra": {
+            "index": 37,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelNormalSag": {
+            "index": 38,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelNormalCor": {
+            "index": 39,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelNormalTra": {
+            "index": 40,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "VoxelInPlaneRot": {
+            "index": 41,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "ImagePositionPatient": {
+            "index": 42,
+            "VR": "DS",
+            "VM": 3,
+            "value": null
+        },
+        "ImageOrientationPatient": {
+            "index": 43,
+            "VR": "DS",
+            "VM": 6,
+            "value": null
+        },
+        "PixelSpacing": {
+            "index": 44,
+            "VR": "DS",
+            "VM": 2,
+            "value": null
+        },
+        "SliceLocation": {
+            "index": 45,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "SliceThickness": {
+            "index": 46,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "SpectrumTextRegionLabel": {
+            "index": 47,
+            "VR": "SH",
+            "VM": 1,
+            "value": null
+        },
+        "Comp_Algorithm": {
+            "index": 48,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "Comp_Blended": {
+            "index": 49,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "Comp_ManualAdjusted": {
+            "index": 50,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "Comp_AutoParam": {
+            "index": 51,
+            "VR": "LT",
+            "VM": 1,
+            "value": null
+        },
+        "Comp_AdjustedParam": {
+            "index": 52,
+            "VR": "LT",
+            "VM": 1,
+            "value": null
+        },
+        "Comp_JobID": {
+            "index": 53,
+            "VR": "LT",
+            "VM": 1,
+            "value": null
+        },
+        "FMRIStimulInfo": {
+            "index": 54,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "FlowEncodingDirectionString": {
+            "index": 55,
+            "VR": "SH",
+            "VM": 1,
+            "value": null
+        },
+        "RepetitionTimeEffective": {
+            "index": 56,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "CsiImagePositionPatient": {
+            "index": 57,
+            "VR": "DS",
+            "VM": 3,
+            "value": null
+        },
+        "CsiImageOrientationPatient": {
+            "index": 58,
+            "VR": "DS",
+            "VM": 6,
+            "value": null
+        },
+        "CsiPixelSpacing": {
+            "index": 59,
+            "VR": "DS",
+            "VM": 2,
+            "value": null
+        },
+        "CsiSliceLocation": {
+            "index": 60,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "CsiSliceThickness": {
+            "index": 61,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "OriginalSeriesNumber": {
+            "index": 62,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "OriginalImageNumber": {
+            "index": 63,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "ImaAbsTablePosition": {
+            "index": 64,
+            "VR": "SL",
+            "VM": 3,
+            "value": [
+                0,
+                0,
+                -1257
+            ]
+        },
+        "NonPlanarImage": {
+            "index": 65,
+            "VR": "US",
+            "VM": 1,
+            "value": 1
+        },
+        "MoCoQMeasure": {
+            "index": 66,
+            "VR": "US",
+            "VM": 1,
+            "value": null
+        },
+        "LQAlgorithm": {
+            "index": 67,
+            "VR": "SH",
+            "VM": 1,
+            "value": null
+        },
+        "SlicePosition_PCS": {
+            "index": 68,
+            "VR": "FD",
+            "VM": 3,
+            "value": [
+                -106.14937656,
+                -165.42824882,
+                -54.18710204
+            ]
+        },
+        "RBMoCoTrans": {
+            "index": 69,
+            "VR": "FD",
+            "VM": 3,
+            "value": null
+        },
+        "RBMoCoRot": {
+            "index": 70,
+            "VR": "FD",
+            "VM": 3,
+            "value": null
+        },
+        "MultistepIndex": {
+            "index": 71,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "ImaRelTablePosition": {
+            "index": 72,
+            "VR": "IS",
+            "VM": 3,
+            "value": [
+                0,
+                0,
+                -11
+            ]
+        },
+        "ImaCoilString": {
+            "index": 73,
+            "VR": "LO",
+            "VM": 1,
+            "value": "HC1-7;NC1,2"
+        },
+        "RFSWDDataType": {
+            "index": 74,
+            "VR": "SH",
+            "VM": 1,
+            "value": "measured"
+        },
+        "GSWDDataType": {
+            "index": 75,
+            "VR": "SH",
+            "VM": 1,
+            "value": "measured"
+        },
+        "NormalizeManipulated": {
+            "index": 76,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "ImaPATModeText": {
+            "index": 77,
+            "VR": "LO",
+            "VM": 1,
+            "value": "p2"
+        },
+        "B_matrix": {
+            "index": 78,
+            "VR": "FD",
+            "VM": 6,
+            "value": null
+        },
+        "BandwidthPerPixelPhaseEncode": {
+            "index": 79,
+            "VR": "FD",
+            "VM": 1,
+            "value": null
+        },
+        "FMRIStimulLevel": {
+            "index": 80,
+            "VR": "FD",
+            "VM": 0,
+            "value": null
+        },
+        "FmriConditionsDataSequence": {
+            "index": 81,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "FmriResultSequence": {
+            "index": 82,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "MosaicRefAcqTimes": {
+            "index": 83,
+            "VR": "FD",
+            "VM": 0,
+            "value": null
+        },
+        "AutoInlineImageFilterEnabled": {
+            "index": 84,
+            "VR": "IS",
+            "VM": 1,
+            "value": null
+        },
+        "QCData": {
+            "index": 85,
+            "VR": "FD",
+            "VM": 0,
+            "value": null
+        },
+        "ExamLandmarks": {
+            "index": 86,
+            "VR": "LT",
+            "VM": 1,
+            "value": null
+        },
+        "ExamDataRole": {
+            "index": 87,
+            "VR": "ST",
+            "VM": 1,
+            "value": null
+        },
+        "MRDiffusion": {
+            "index": 88,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "RealWorldValueMapping": {
+            "index": 89,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "PhaseContrastN4": {
+            "index": 90,
+            "VR": "CS",
+            "VM": 1,
+            "value": null
+        },
+        "MRVelocityEncoding": {
+            "index": 91,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "VelocityEncodingDirectionN4": {
+            "index": 92,
+            "VR": "FD",
+            "VM": 3,
+            "value": null
+        },
+        "ImageType4MF": {
+            "index": 93,
+            "VR": "CS",
+            "VM": 0,
+            "value": null
+        },
+        "VolumetricProperties4MF": {
+            "index": 94,
+            "VR": "CS",
+            "VM": 1,
+            "value": null
+        },
+        "MorphoQCThreshold": {
+            "index": 95,
+            "VR": "FD",
+            "VM": 1,
+            "value": null
+        },
+        "MorphoQCIndex": {
+            "index": 96,
+            "VR": "FD",
+            "VM": 1,
+            "value": null
+        },
+        "ImageHistory": {
+            "index": 97,
+            "VR": "LO",
+            "VM": 0,
+            "value": [
+                "ChannelMixing:ND=true_CMM=1_CDM=1",
+                "ACCAlgo:9",
+                "NormalizeAlgo:PreScan",
+                "b''",
+                "b''",
+                "b''"
+            ]
+        },
+        "MR_ASL": {
+            "index": 98,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "Distorcor_IntensityCorrection": {
+            "index": 99,
+            "VR": "CS",
+            "VM": 1,
+            "value": null
+        },
+        "UserDefinedImage": {
+            "index": 100,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        }
+    },
+    "CsaSeriesHeaderType": "MR",
+    "CsaSeriesHeaderVersion": "20180501",
+    "CsaSeriesHeaderInfo": {
+        "UsedPatientWeight": {
+            "index": 0,
+            "VR": "IS",
+            "VM": 1,
+            "value": 67
+        },
+        "NumberOfPrescans": {
+            "index": 1,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "TransmitterCalibration": {
+            "index": 2,
+            "VR": "DS",
+            "VM": 1,
+            "value": 239.882902
+        },
+        "PhaseGradientAmplitude": {
+            "index": 3,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "ReadoutGradientAmplitude": {
+            "index": 4,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "SelectionGradientAmplitude": {
+            "index": 5,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "GradientDelayTime": {
+            "index": 6,
+            "VR": "DS",
+            "VM": 3,
+            "value": [
+                36.0,
+                35.0,
+                31.0
+            ]
+        },
+        "RfWatchdogMask": {
+            "index": 7,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "RfPowerErrorIndicator": {
+            "index": 8,
+            "VR": "DS",
+            "VM": 1,
+            "value": null
+        },
+        "SarWholeBody": {
+            "index": 9,
+            "VR": "DS",
+            "VM": 3,
+            "value": null
+        },
+        "Sed": {
+            "index": 10,
+            "VR": "DS",
+            "VM": 3,
+            "value": [
+                1000000.0,
+                56.4850992,
+                56.48509941
+            ]
+        },
+        "SequenceFileOwner": {
+            "index": 11,
+            "VR": "SH",
+            "VM": 1,
+            "value": "SIEMENS"
+        },
+        "Stim_mon_mode": {
+            "index": 12,
+            "VR": "IS",
+            "VM": 1,
+            "value": 2
+        },
+        "Operation_mode_flag": {
+            "index": 13,
+            "VR": "IS",
+            "VM": 1,
+            "value": 0
+        },
+        "dBdt_max": {
+            "index": 14,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "t_puls_max": {
+            "index": 15,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "dBdt_thresh": {
+            "index": 16,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "dBdt_limit": {
+            "index": 17,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.0
+        },
+        "SW_korr_faktor": {
+            "index": 18,
+            "VR": "DS",
+            "VM": 1,
+            "value": 1.0
+        },
+        "Stim_max_online": {
+            "index": 19,
+            "VR": "DS",
+            "VM": 3,
+            "value": [
+                5.10943174,
+                15.47092915,
+                7.55473423
+            ]
+        },
+        "Stim_max_ges_norm_online": {
+            "index": 20,
+            "VR": "DS",
+            "VM": 1,
+            "value": 0.6882363
+        },
+        "Stim_lim": {
+            "index": 21,
+            "VR": "DS",
+            "VM": 3,
+            "value": [
+                42.70069885,
+                23.97319984,
+                36.48099899
+            ]
+        },
+        "Stim_faktor": {
+            "index": 22,
+            "VR": "DS",
+            "VM": 1,
+            "value": 1.0
+        },
+        "CoilForGradient": {
+            "index": 23,
+            "VR": "SH",
+            "VM": 1,
+            "value": "void"
+        },
+        "CoilForGradient2": {
+            "index": 24,
+            "VR": "SH",
+            "VM": 1,
+            "value": "AS82"
+        },
+        "CoilTuningReflection": {
+            "index": 25,
+            "VR": "DS",
+            "VM": 2,
+            "value": null
+        },
+        "CoilId": {
+            "index": 26,
+            "VR": "IS",
+            "VM": 0,
+            "value": [
+                255,
+                0,
+                4877,
+                0,
+                0,
+                4875,
+                4876,
+                4865,
+                4866,
+                0,
+                0
+            ]
+        },
+        "MiscSequenceParam": {
+            "index": 27,
+            "VR": "IS",
+            "VM": 38,
+            "value": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                22134,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "MrProtocolVersion": {
+            "index": 28,
+            "VR": "IS",
+            "VM": 1,
+            "value": 51130001
+        },
+        "DataFileName": {
+            "index": 29,
+            "VR": "LO",
+            "VM": 1,
+            "value": null
+        },
+        "RepresentativeImage": {
+            "index": 30,
+            "VR": "UI",
+            "VM": 1,
+            "value": null
+        },
+        "PositivePCSDirections": {
+            "index": 31,
+            "VR": "SH",
+            "VM": 1,
+            "value": "+LPH"
+        },
+        "RelTablePosition": {
+            "index": 32,
+            "VR": "IS",
+            "VM": 3,
+            "value": [
+                0,
+                0,
+                -11
+            ]
+        },
+        "ReadoutOS": {
+            "index": 33,
+            "VR": "FD",
+            "VM": 1,
+            "value": 2.0
+        },
+        "LongModelName": {
+            "index": 34,
+            "VR": "LO",
+            "VM": 1,
+            "value": "NUMARIS/4"
+        },
+        "SliceArrayConcatenations": {
+            "index": 35,
+            "VR": "IS",
+            "VM": 1,
+            "value": 1
+        },
+        "SliceResolution": {
+            "index": 36,
+            "VR": "DS",
+            "VM": 1,
+            "value": 1.0
+        },
+        "AbsTablePosition": {
+            "index": 37,
+            "VR": "IS",
+            "VM": 1,
+            "value": -1257
+        },
+        "AutoAlignMatrix": {
+            "index": 38,
+            "VR": "FL",
+            "VM": 16,
+            "value": null
+        },
+        "MeasurementIndex": {
+            "index": 39,
+            "VR": "FL",
+            "VM": 1,
+            "value": null
+        },
+        "CoilString": {
+            "index": 40,
+            "VR": "LO",
+            "VM": 1,
+            "value": "HC1-7;NC1,2"
+        },
+        "PATModeText": {
+            "index": 41,
+            "VR": "LO",
+            "VM": 1,
+            "value": "p2"
+        },
+        "PatReinPattern": {
+            "index": 42,
+            "VR": "ST",
+            "VM": 1,
+            "value": "1;HFS;67.00;27.00;2;0;0;-694369922"
+        },
+        "ProtocolChangeHistory": {
+            "index": 43,
+            "VR": "US",
+            "VM": 1,
+            "value": 0
+        },
+        "Isocentered": {
+            "index": 44,
+            "VR": "US",
+            "VM": 1,
+            "value": 1
+        },
+        "MrPhoenixProtocol": {
+            "index": 45,
+            "VR": "UN",
+            "VM": 1,
+            "value": {
+                "Version": 51130001,
+                "SequenceFileName": "%SiemensSeq%\\tfl",
+                "ProtocolName": "MPRAGE_EnchancedContrast",
+                "EVAProt": "%SiemensEvaDefProt%\\Inline\\Inline.evp",
+                "ReferenceImage0": "1.3.12.2.1107.5.2.43.66024.2018050112252319243384484",
+                "ReferenceImage1": "1.3.12.2.1107.5.2.43.66024.2018050112252924221684490",
+                "ReferenceImage2": "1.3.12.2.1107.5.2.43.66024.201805011225546895684518",
+                "ScanRegionPosTra": -11,
+                "ScanRegionPosValid": 1,
+                "PtabAbsStartPosZ": -1257,
+                "PtabAbsStartPosZValid": 1,
+                "TablePositioningMode": 4,
+                "EnableNoiseAdjust": 1,
+                "Contrasts": 1,
+                "CombinedEchoes": 1,
+                "EnableIntro": 1,
+                "DisableChangeStoreImages": 1,
+                "AAMode": 1,
+                "AARegionMode": 1,
+                "AARefMode": 1,
+                "ReconstructionMode": 1,
+                "OneSeriesForAllMeas": 4,
+                "PHAPSMode": 1,
+                "WrapUpMagn": 1,
+                "Averages": 1,
+                "AveragesDouble": 1,
+                "ScanTimeSec": 321,
+                "TotalScanTimeSec": 323,
+                "RefSNR": 282204.442205,
+                "RefSNR_VOI": 229291.109291,
+                "MotionCorr": 1,
+                "CineMode": 1,
+                "SequenceType": 1,
+                "CoilCombineMode": 2,
+                "FlipAngleMode": 1,
+                "TOM": 1,
+                "ProtID": -167,
+                "SequenceID": 100,
+                "ReadOutMode": 1,
+                "Bold3dPace": 1,
+                "ForcePositioningOnNDIS": 1,
+                "InternalTablePosValid": 1,
+                "TmapB0Correction": 1,
+                "TmapEval": 1,
+                "TmapImageType": 1,
+                "OrganUnderExamination": 1,
+                "TissueT1": 10,
+                "TissueT2": 5,
+                "InvContrasts": 1,
+                "ReaquisitionMode": 1,
+                "ProtConsistencyInfo": {
+                    "MeasuredBaselineString": "N4_VE11C_LATEST_20160120",
+                    "BaselineString": "N4_VE11C_LATEST_20160120",
+                    "SystemType": "021",
+                    "NominalB0": 2.89362001419,
+                    "GMax": 34,
+                    "RiseTime": 5,
+                    "MaximumNofRxReceiverChannels": 64,
+                    "ConvFromVersion": 51130001
+                },
+                "GRADSPEC": {
+                    "Mode": 8,
+                    "ShimCurrentValid": 1,
+                    "NoiseReduction": 1,
+                    "GPAData": [
+                        {
+                            "EddyCompensationValid": 1,
+                            "B0CompensationValid": 1,
+                            "CrossTermCompensationValid": 1,
+                            "OffsetX": 1877,
+                            "OffsetY": -9584,
+                            "OffsetZ": 2802,
+                            "OffsetValid": 1,
+                            "DelayX": 36,
+                            "DelayY": 35,
+                            "DelayZ": 31,
+                            "DelayValid": 1,
+                            "SensitivityX": 0.000158816415933,
+                            "SensitivityY": 0.000160199429956,
+                            "SensitivityZ": 0.000163094591699,
+                            "SensitivityValid": 1,
+                            "EddyCompensationX": {
+                                "Amplitude": [
+                                    0.00280509656295,
+                                    0.00064353691414,
+                                    -9.61785335676e-05,
+                                    0.00081779184984
+                                ],
+                                "Amplitude[0]": 0.00208438397385,
+                                "TimeConstant": [
+                                    0.624319016933,
+                                    0.16186837852,
+                                    0.0489454418421,
+                                    0.000500000023749
+                                ],
+                                "TimeConstant[0]": 1.15848863125
+                            },
+                            "EddyCompensationY": {
+                                "Amplitude": [
+                                    0.00675138318911,
+                                    0.00042676817975,
+                                    -0.000227072057896,
+                                    0.000157843765919
+                                ],
+                                "Amplitude[0]": 8.75212281244e-05,
+                                "TimeConstant": [
+                                    0.917683601379,
+                                    0.106783948839,
+                                    0.0499027855694,
+                                    0.0016127784038
+                                ],
+                                "TimeConstant[0]": 4.97967481613
+                            },
+                            "EddyCompensationZ": {
+                                "Amplitude": [
+                                    0.000390234636143,
+                                    -0.000428424187703,
+                                    0.00034915166907,
+                                    -0.000904777203687
+                                ],
+                                "Amplitude[0]": 0.00015185160737,
+                                "TimeConstant": [
+                                    0.356960952282,
+                                    0.233467683196,
+                                    0.0378714054823,
+                                    0.000500555790495
+                                ],
+                                "TimeConstant[0]": 4.99863386154
+                            },
+                            "B0CompensationX": {
+                                "Amplitude": [
+                                    0.00993301253766,
+                                    0.0129532236606
+                                ],
+                                "Amplitude[0]": 0.13007555902,
+                                "TimeConstant": [
+                                    0.0855827108026,
+                                    0.00107308709994
+                                ],
+                                "TimeConstant[0]": 0.713938295841
+                            },
+                            "B0CompensationY": {
+                                "Amplitude": [
+                                    -0.0335767753422,
+                                    -0.0105046415702
+                                ],
+                                "Amplitude[0]": 0.0106283370405,
+                                "TimeConstant": [
+                                    0.374731957912,
+                                    0.000772158906329
+                                ],
+                                "TimeConstant[0]": 1.39674472809
+                            },
+                            "B0CompensationZ": {
+                                "Amplitude": [
+                                    -0.0384599789977,
+                                    -0.0089219994843
+                                ],
+                                "Amplitude[0]": -0.00624272134155,
+                                "TimeConstant": [
+                                    0.509437561035,
+                                    0.129456222057
+                                ],
+                                "TimeConstant[0]": 1.99665689468
+                            },
+                            "CrossTermCompensationXY": {
+                                "Amplitude": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "Amplitude[0]": -0.00052369752666,
+                                "TimeConstant": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "TimeConstant[0]": 0.404473572969
+                            },
+                            "CrossTermCompensationXZ": {
+                                "Amplitude": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "Amplitude[0]": 0.000201051778276,
+                                "TimeConstant": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "TimeConstant[0]": 0.594757080078
+                            },
+                            "CrossTermCompensationYX": {
+                                "Amplitude": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "Amplitude[0]": -0.000919804209843,
+                                "TimeConstant": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "TimeConstant[0]": 0.477746754885
+                            },
+                            "CrossTermCompensationYZ": {
+                                "Amplitude": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "Amplitude[0]": 0.000413652625866,
+                                "TimeConstant": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "TimeConstant[0]": 0.580002069473
+                            },
+                            "CrossTermCompensationZX": {
+                                "Amplitude": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "Amplitude[0]": 0.000109820954094,
+                                "TimeConstant": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "TimeConstant[0]": 0.475813031197
+                            },
+                            "CrossTermCompensationZY": {
+                                "Amplitude": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "Amplitude[0]": 0.000232745151152,
+                                "TimeConstant": {
+                                    "__attribute__": {
+                                        "size": 5
+                                    }
+                                },
+                                "TimeConstant[0]": 0.785369038582
+                            }
+                        }
+                    ],
+                    "ShimCurrent": [
+                        -175,
+                        -343,
+                        17,
+                        -28
+                    ],
+                    "ShimCurrent[0]": 237
+                },
+                "TXSPEC": {
+                    "TxScaleFactorsValid": 1,
+                    "NoOfTraPulses": 2,
+                    "BCExcitationMode": 1,
+                    "BCSeqExcitationMode": 4,
+                    "KDynMagnitudeMin": 0.5,
+                    "KDynMagnitudeMax": 1.5,
+                    "KDynMagnitudeClipLow": 1,
+                    "KDynMagnitudeClipHigh": 1,
+                    "KDynPhaseMax": 0.698131978512,
+                    "KDynPhaseClip": 0.174532994628,
+                    "KDynValid": 1,
+                    "RFPulseType": 1,
+                    "ExcitMode": 1,
+                    "SimultaneousExcitation": 1,
+                    "BCExcitationModeValid": 1,
+                    "B1ShimMode": 1,
+                    "NucleusInfo": [
+                        {
+                            "Nucleus": "1H",
+                            "CoilSelectIndex": 0,
+                            "Frequency": 123259922,
+                            "FrequencyValid": 1,
+                            "ReferenceAmplitude": 239.882904053,
+                            "ReferenceAmplitudeValid": 1,
+                            "CompProtectionRefAmpl": 239.882904053,
+                            "CompProtectionRefAmplValid": 1,
+                            "CompProtectionB1PlusRefAmpl": 209.678924561,
+                            "CompProtectionB1PlusRefAmplValid": 1,
+                            "AmplitudeCorrection": 1,
+                            "AmplitudeCorrectionValid": 1,
+                            "CompProtectionValuesValid": 1,
+                            "CompProtectionValues": {
+                                "MaxOfflineTxAmpl": 493.474273682,
+                                "WorstCasePulseScaleRefAmpl": 239.882904053,
+                                "WorstCaseMaxOfflineTxAmpl": 493.474273682,
+                                "DecouplingMatrixValid": 1,
+                                "ZZMatrixVectorUUID": "ac184512b29b27772d0b374eb25f258a040ffd23",
+                                "ScatterMatrixValid": 1,
+                                "MaxOnlineTxAmpl": [
+                                    355.64831543
+                                ],
+                                "MaxOnlineTxAmpl[0]": 353.197814941,
+                                "WorstCaseMaxOnlineTxAmpl": [
+                                    355.64831543
+                                ],
+                                "WorstCaseMaxOnlineTxAmpl[0]": 353.197814941,
+                                "GainVariation": [
+                                    1.01923751831
+                                ],
+                                "GainVariation[0]": 1.01221477985,
+                                "DecouplingMatrix": {
+                                    "Size1": 2,
+                                    "Size2": 2,
+                                    "ComplexData": [
+                                        {
+                                            "Re": -0.902370498628,
+                                            "Im": 0.474913584383
+                                        },
+                                        {
+                                            "Re": -0.0098503368042,
+                                            "Im": -0.0227039955378
+                                        },
+                                        {
+                                            "Re": -0.00860709984349,
+                                            "Im": -0.0224369849175
+                                        },
+                                        {
+                                            "Re": -1.0979264481,
+                                            "Im": 0.317528895787
+                                        }
+                                    ]
+                                },
+                                "ZZMatrixVector": {
+                                    "__attribute__": {
+                                        "size": 0
+                                    }
+                                },
+                                "ScatterMatrix": {
+                                    "Size1": 2,
+                                    "Size2": 2,
+                                    "ComplexData": [
+                                        {
+                                            "Re": 0.0773339795482,
+                                            "Im": -0.328684336009
+                                        },
+                                        {
+                                            "Re": 0.0129249642515,
+                                            "Im": 0.0574411023789
+                                        },
+                                        {
+                                            "Re": 0.0131558611047,
+                                            "Im": 0.0559588471654
+                                        },
+                                        {
+                                            "Re": 0.415501202557,
+                                            "Im": 0.15128900467
+                                        }
+                                    ]
+                                }
+                            },
+                            "TxScaleFactorSlice": {
+                                "__attribute__": {
+                                    "size": 0
+                                }
+                            }
+                        },
+                        {
+                            "CoilSelectIndex": -1,
+                            "CompProtectionValues": {
+                                "MaxOnlineTxAmpl": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "WorstCaseMaxOnlineTxAmpl": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "GainVariation": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "DecouplingMatrix": {
+                                    "ComplexData": {
+                                        "__attribute__": {
+                                            "size": 0
+                                        }
+                                    }
+                                },
+                                "ZZMatrixVector": {
+                                    "__attribute__": {
+                                        "size": 0
+                                    }
+                                },
+                                "ScatterMatrix": {
+                                    "ComplexData": {
+                                        "__attribute__": {
+                                            "size": 0
+                                        }
+                                    }
+                                }
+                            },
+                            "TxScaleFactorSlice": {
+                                "__attribute__": {
+                                    "size": 0
+                                }
+                            }
+                        }
+                    ],
+                    "RFPULSE": [
+                        {
+                            "Name": "SLoopIRns1",
+                            "Amplitude": 359.3800354,
+                            "AmplitudeNL": 359.3800354,
+                            "AmplitudeValid": 1
+                        },
+                        {
+                            "Name": "SRFExcit",
+                            "Amplitude": 47.7115325928,
+                            "AmplitudeNL": 47.7115325928,
+                            "AmplitudeValid": 1
+                        }
+                    ],
+                    "TxScaleFactor": [
+                        {
+                            "Re": 0.707099974155
+                        },
+                        {
+                            "Im": 0.707099974155
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        },
+                        {
+                            "Re": 1
+                        }
+                    ],
+                    "PTXRFPulse": {
+                        "__attribute__": {
+                            "size": 0
+                        }
+                    },
+                    "B1CorrectionParameters": {
+                        "Valid": 1,
+                        "Active": 0,
+                        "CorrectionFactorMax": 1,
+                        "PeakReserveFactor": 0
+                    }
+                },
+                "RXSPEC": {
+                    "GainValid": 1,
+                    "UseDoubleDataRate": 0,
+                    "NucleusInfo": [
+                        {
+                            "Nucleus": "1H",
+                            "CoilSelectIndex": 0
+                        },
+                        {
+                            "CoilSelectIndex": -1
+                        }
+                    ],
+                    "VariCapVoltages": {
+                        "__attribute__": {
+                            "size": 4
+                        }
+                    },
+                    "DwellTime": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    },
+                    "DwellTime[0]": 12400
+                },
+                "AdjData": {
+                    "AdjFreMode": 1,
+                    "AdjShimMode": 2,
+                    "AdjWatSupMode": 1,
+                    "AdjRFMapMode": 1,
+                    "AdjMDSMode": 1,
+                    "AdjTableTolerance": 2,
+                    "AdjFreConfirmOverrideKey": 710404,
+                    "AdjProtID": 38,
+                    "AdjFreConfirmSpec": 1,
+                    "CoupleAdjVolTo": 1,
+                    "AdjB0AcqMode": 1,
+                    "AdjB1AcqMode": 1,
+                    "AdjVolume": {
+                        "Thickness": 208,
+                        "PhaseFOV": 224,
+                        "ReadoutFOV": 224,
+                        "InPlaneRot": -0.0436332312999,
+                        "Position": {
+                            "Sag": -1.89617636164,
+                            "Cor": -16.9501646238,
+                            "Tra": -0.4676566885
+                        },
+                        "Normal": {
+                            "Sag": -0.02626020797,
+                            "Cor": 0.3811578459,
+                            "Tra": 0.9241369476
+                        }
+                    }
+                },
+                "TR": {
+                    "__attribute__": {
+                        "size": 128
+                    }
+                },
+                "TR[0]": 2530000,
+                "TI": [
+                    1000000
+                ],
+                "TI[0]": 1100000,
+                "TD": {
+                    "__attribute__": {
+                        "size": 128
+                    }
+                },
+                "TE": {
+                    "__attribute__": {
+                        "size": 128
+                    }
+                },
+                "TE[0]": 2880,
+                "FlowComp": {
+                    "__attribute__": {
+                        "size": 128
+                    }
+                },
+                "FlowComp[0]": 1,
+                "SliceArray": {
+                    "Size": 1,
+                    "Conc": 1,
+                    "Mode": 4,
+                    "AnatomicalSliceMode": 4,
+                    "Slice": [
+                        {
+                            "Thickness": 208,
+                            "PhaseFOV": 224,
+                            "ReadoutFOV": 224,
+                            "InPlaneRot": -0.0436332312999,
+                            "Position": {
+                                "Sag": -1.89617636164,
+                                "Cor": -16.9501646238,
+                                "Tra": -0.4676566885
+                            },
+                            "Normal": {
+                                "Sag": -0.02626020797,
+                                "Cor": 0.3811578459,
+                                "Tra": 0.9241369476
+                            }
+                        }
+                    ],
+                    "SliceAcqOrder": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    },
+                    "Asc": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    },
+                    "Pos": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    },
+                    "TSat": {
+                        "Thickness": 50,
+                        "Shape": 1
+                    }
+                },
+                "GroupArray": {
+                    "Size": 1,
+                    "Group": [
+                        {
+                            "Size": 1,
+                            "DistFact": 0.5
+                        }
+                    ],
+                    "Member": [
+                        -1
+                    ],
+                    "PSat": {
+                        "Thickness": 50,
+                        "Shape": 1
+                    }
+                },
+                "RSatArray": {
+                    "Elm": [
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        },
+                        {
+                            "Shape": 1
+                        }
+                    ]
+                },
+                "NavigatorArray": {
+                    "Elm": {
+                        "__attribute__": {
+                            "size": 5
+                        }
+                    }
+                },
+                "AutoAlign": {
+                    "AAMatrix": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "AAMatrix[0]": 1
+                },
+                "NavigatorPara": {
+                    "BreathHoldDuration_us": 15000000,
+                    "BreathHoldMeas": 1,
+                    "RespComp": 4,
+                    "TrackingFactor": {
+                        "__attribute__": {
+                            "size": 2
+                        }
+                    },
+                    "AcceptWindow": {
+                        "__attribute__": {
+                            "size": 2
+                        }
+                    },
+                    "AcceptPosition": {
+                        "__attribute__": {
+                            "size": 2
+                        }
+                    },
+                    "SearchWindow": {
+                        "__attribute__": {
+                            "size": 2
+                        }
+                    },
+                    "Free": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    }
+                },
+                "BladePara": {
+                    "BladeCoverage": 100,
+                    "MotionCorr": 2,
+                    "Free": {
+                        "__attribute__": {
+                            "size": 8
+                        }
+                    }
+                },
+                "PrepPulses": {
+                    "FatSat": 4,
+                    "WaterSat": 4,
+                    "Inversion": 2,
+                    "SatRecovery": 1,
+                    "T2Prep": 1,
+                    "TIScout": 1,
+                    "FatSatMode": 2,
+                    "DarkBloodThickness": 200,
+                    "DarkBloodFlipAngle": 200,
+                    "IRPulseThicknessFactor": 0.77,
+                    "BloodSuppression": 1,
+                    "PhaseCorrectionMode": 1,
+                    "IRScheme": 1,
+                    "FatSupOpt": 1,
+                    "T2PrepDuration": {
+                        "__attribute__": {
+                            "size": 1
+                        }
+                    },
+                    "T2PrepDuration[0]": 40
+                },
+                "KSpace": {
+                    "PhaseResolution": 1,
+                    "SliceResolution": 1,
+                    "SliceOversamplingForDialog": 0.230769230769,
+                    "AngioDynCentralRegionA": 20,
+                    "AngioDynSamplingDensityB": 25,
+                    "SeqPhasePartialFourierForSNR": 1,
+                    "BaseResolution": 224,
+                    "PhaseEncodingLines": 224,
+                    "Partitions": 256,
+                    "ImagesPerSlab": 208,
+                    "RadialViews": 64,
+                    "RadialInterleavesPerImage": 2,
+                    "LinesPerShot": 1,
+                    "Reordering": 1,
+                    "PhasePartialFourier": 16,
+                    "SlicePartialFourier": 16,
+                    "AveragingMode": 2,
+                    "MultiSliceMode": 4,
+                    "Dimension": 4,
+                    "Trajectory": 1,
+                    "ViewSharing": 1,
+                    "AsymmetricEchoMode": 1,
+                    "POCS": 1,
+                    "AsymmetricEchoAllowed": 1,
+                    "ReadoutPartialFourier": 16
+                },
+                "FastImaging": {
+                    "EPIFactor": 1,
+                    "TurboFactor": 16,
+                    "SliceTurboFactor": 1,
+                    "Segments": 1,
+                    "EnableRFSpoiling": 1,
+                    "PhaseEncRE": 0,
+                    "SegmentationMode": 1,
+                    "Shots": 1,
+                    "EchoTrainDuration": 700
+                },
+                "PhysioImaging": {
+                    "Signal1": 1,
+                    "Method1": 1,
+                    "Signal2": 1,
+                    "Method2": 1,
+                    "Phases": 1,
+                    "RetroGatedImages": 16,
+                    "DummyHeartbeats": 0,
+                    "PhysioECG": {
+                        "TriggerPulses": 1,
+                        "TriggerWindow": 5,
+                        "ArrhythmiaDetection": 1,
+                        "CardiacGateOnThreshold": 100000,
+                        "CardiacGateOffThreshold": 700000,
+                        "TriggerIntervals": 1
+                    },
+                    "PhysioPulse": {
+                        "TriggerPulses": 1,
+                        "TriggerWindow": 5,
+                        "ArrhythmiaDetection": 1,
+                        "CardiacGateOnThreshold": 100000,
+                        "CardiacGateOffThreshold": 700000,
+                        "TriggerIntervals": 1
+                    },
+                    "PhysioExt": {
+                        "TriggerPulses": 1,
+                        "TriggerWindow": 5,
+                        "ArrhythmiaDetection": 1,
+                        "CardiacGateOnThreshold": 100000,
+                        "CardiacGateOffThreshold": 700000,
+                        "TriggerIntervals": 1
+                    },
+                    "PhysioExt2": {
+                        "TriggerIntervals": 1
+                    },
+                    "PhysioResp": {
+                        "RespGateThreshold": 20,
+                        "RespGatePhase": 2,
+                        "GatingRatio": 0.3
+                    },
+                    "PhysioNative": {
+                        "Mode": 1,
+                        "FlowSenMode": 1
+                    }
+                },
+                "SpecPara": {
+                    "PhaseCyclingType": 1,
+                    "PhaseEncodingType": 1,
+                    "RFExcitationBandwidth": 1,
+                    "RemoveOversampling": 1,
+                    "AutoRefScanMode": 1,
+                    "AutoRefScanNo": 1,
+                    "DecouplingType": 1,
+                    "NOEType": 1,
+                    "ExcitationType": 1,
+                    "SpecAppl": 1,
+                    "SpectralSuppression": 1,
+                    "VoI": {
+                        "Position": {
+                            "Tra": 28
+                        }
+                    }
+                },
+                "Diffusion": {
+                    "Mode": 1,
+                    "Scheme": 1,
+                    "QSpaceCoverage": 1,
+                    "QSpaceSampling": 1,
+                    "QSpaceSteps": 1,
+                    "BValue": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    },
+                    "Averages": {
+                        "__attribute__": {
+                            "size": 128
+                        }
+                    },
+                    "FreeDiffusionData": {
+                        "CoordinateSystem": 1,
+                        "Normalization": 1,
+                        "DiffDirVector": {
+                            "__attribute__": {
+                                "size": 0
+                            }
+                        }
+                    }
+                },
+                "Angio": {
+                    "PCFlowMode": 2,
+                    "TOFInflow": 4,
+                    "DynamicReconMode": 1,
+                    "TemporalInterpolation": 1,
+                    "FlowArray": {
+                        "Elm": {
+                            "__attribute__": {
+                                "size": 16
+                            }
+                        }
+                    }
+                },
+                "PreScanNormalizeFilter": {
+                    "On": 1,
+                    "Mode": 2
+                },
+                "DistortionCorrFilter": {
+                    "Mode": 2
+                },
+                "NoiseDecorrData": {
+                    "NoiseDecorrDefaultMode": 4
+                },
+                "Pat": {
+                    "AccelFactPE": 2,
+                    "AccelFact3D": 1,
+                    "RefLinesPE": 32,
+                    "PATMode": 2,
+                    "RefScanMode": 2,
+                    "TPatAverageAllFrames": 1,
+                    "CaipirinhaMode": 1
+                },
+                "Mds": {
+                    "MdsModeMask": 1,
+                    "MdsVariableResolution": 1,
+                    "TableSpeedNumerator": 1,
+                    "LinesPerSegment": 15,
+                    "MdsPtabAbsStartPosZ": 0,
+                    "MdsPtabAbsStartPosZValid": 0,
+                    "MdsPtabAbsEndPosZ": 0,
+                    "MdsPtabAbsEndPosZValid": 0,
+                    "MdsReconMode": 1,
+                    "MdsRangeExtension": 600,
+                    "Sweeps": 1,
+                    "SweepMode": 1,
+                    "DCSIlluminationScale": 2,
+                    "ExcitDir": 1,
+                    "FreqShimPerSlice": 1,
+                    "SliceFollowing": 1,
+                    "DynamicCoilSwitching": 1,
+                    "PhaseNav": 0,
+                    "MdsMotionInterval": {
+                        "__attribute__": {
+                            "size": 8
+                        }
+                    },
+                    "Free": {
+                        "__attribute__": {
+                            "size": 8
+                        }
+                    },
+                    "MdsEndPosSBCS_mm": {
+                        "Tra": 600
+                    },
+                    "MdsPreScanNormalize": {
+                        "Mode": 2,
+                        "StackMode": 4,
+                        "NPELin": 18
+                    }
+                },
+                "AAInitialOffset": {
+                    "Laterality": 0,
+                    "SliceInformation": {
+                        "InPlaneRot": -0.0436332312999,
+                        "Position": {
+                            "Sag": -1.89617636164,
+                            "Cor": -16.9501646238,
+                            "Tra": -11.4676566885
+                        },
+                        "Normal": {
+                            "Sag": -0.0262602079709,
+                            "Cor": 0.381157845913,
+                            "Tra": 0.924136947631
+                        }
+                    }
+                },
+                "RepetitionsDelayTimeMs": {
+                    "__attribute__": {
+                        "size": 64
+                    }
+                },
+                "FlipAngleDegree": [
+                    8
+                ],
+                "FlipAngleDegree[0]": 7,
+                "ServicePara": {
+                    "__attribute__": {
+                        "size": 5
+                    }
+                },
+                "PerProxy2Skip": {
+                    "__attribute__": {
+                        "size": 2
+                    }
+                },
+                "CoilSelectMeas": {
+                    "OverallImageScaleFactor": 0.00510204081633,
+                    "OverallImageScaleCorrectionFactor": 1,
+                    "CoilStringForConversion": "HC1-7;NC1,2",
+                    "AutoCoilSelectIlluRangeScale": 0.7,
+                    "RxCoilSelectData": [
+                        {
+                            "NoiseDecorrMode": 1,
+                            "Nucleus": "1H",
+                            "UsedRFactor": 3,
+                            "IgnoreCoilGroups": 0,
+                            "BCCombineMode": 1,
+                            "SuppressMandatoryProperties": 0,
+                            "BCCombineMatrix": {
+                                "__attribute__": {
+                                    "size": 0
+                                }
+                            },
+                            "List": [
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 58,
+                                    "RxChannelConnected": 17,
+                                    "ADCChannelConnected": 33,
+                                    "InsertionTime": 3664,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N23",
+                                        "UniqueKey": 684521108
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 57,
+                                    "RxChannelConnected": 27,
+                                    "ADCChannelConnected": 54,
+                                    "InsertionTime": 3664,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N20",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": 1869384772
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 57,
+                                    "RxChannelConnected": 27,
+                                    "ADCChannelConnected": 53,
+                                    "InsertionTime": 3664,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N21",
+                                        "UniqueKey": 1376560628
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 58,
+                                    "RxChannelConnected": 17,
+                                    "ADCChannelConnected": 34,
+                                    "InsertionTime": 3664,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N22",
+                                        "UniqueKey": 363650852
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 70,
+                                    "RxChannelConnected": 22,
+                                    "ADCChannelConnected": 44,
+                                    "InsertionTime": 3664,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N24",
+                                        "UniqueKey": -1695798652
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 70,
+                                    "RxChannelConnected": 22,
+                                    "ADCChannelConnected": 43,
+                                    "InsertionTime": 3664,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N25",
+                                        "UniqueKey": -1483996364
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 24,
+                                    "RxChannelConnected": 14,
+                                    "ADCChannelConnected": 28,
+                                    "InsertionTime": 3663,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N12",
+                                        "UniqueKey": -1825002102
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 22,
+                                    "RxChannelConnected": 26,
+                                    "ADCChannelConnected": 52,
+                                    "InsertionTime": 3663,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N30",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": -1540333599
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 22,
+                                    "RxChannelConnected": 26,
+                                    "ADCChannelConnected": 51,
+                                    "InsertionTime": 3663,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N10",
+                                        "UniqueKey": -369557782
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 23,
+                                    "RxChannelConnected": 18,
+                                    "ADCChannelConnected": 36,
+                                    "InsertionTime": 3663,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N31",
+                                        "UniqueKey": -1722780079
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 23,
+                                    "RxChannelConnected": 18,
+                                    "ADCChannelConnected": 35,
+                                    "InsertionTime": 3663,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N11",
+                                        "UniqueKey": -728180902
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 24,
+                                    "RxChannelConnected": 14,
+                                    "ADCChannelConnected": 27,
+                                    "InsertionTime": 3663,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "N32",
+                                        "UniqueKey": -554693503
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 14,
+                                    "RxChannelConnected": 32,
+                                    "ADCChannelConnected": 64,
+                                    "InsertionTime": 3662,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H13",
+                                        "UniqueKey": -846679808
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 13,
+                                    "RxChannelConnected": 10,
+                                    "ADCChannelConnected": 19,
+                                    "InsertionTime": 3662,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H10",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": -1977037872
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 13,
+                                    "RxChannelConnected": 10,
+                                    "ADCChannelConnected": 20,
+                                    "InsertionTime": 3662,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H11",
+                                        "UniqueKey": -1219960224
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 14,
+                                    "RxChannelConnected": 32,
+                                    "ADCChannelConnected": 63,
+                                    "InsertionTime": 3662,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H12",
+                                        "UniqueKey": -253192016
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 61,
+                                    "RxChannelConnected": 28,
+                                    "ADCChannelConnected": 55,
+                                    "InsertionTime": 3661,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H24",
+                                        "UniqueKey": -113500226
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 49,
+                                    "RxChannelConnected": 9,
+                                    "ADCChannelConnected": 17,
+                                    "InsertionTime": 3661,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H20",
+                                        "UniqueKey": 213694846
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 49,
+                                    "RxChannelConnected": 9,
+                                    "ADCChannelConnected": 18,
+                                    "InsertionTime": 3661,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H21",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": 836538574
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 50,
+                                    "RxChannelConnected": 25,
+                                    "ADCChannelConnected": 49,
+                                    "InsertionTime": 3661,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H22",
+                                        "UniqueKey": 1987897886
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 50,
+                                    "RxChannelConnected": 25,
+                                    "ADCChannelConnected": 50,
+                                    "InsertionTime": 3661,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H23",
+                                        "UniqueKey": 1260176302
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 61,
+                                    "RxChannelConnected": 28,
+                                    "ADCChannelConnected": 56,
+                                    "InsertionTime": 3661,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H25",
+                                        "UniqueKey": -1000589810
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 69,
+                                    "RxChannelConnected": 21,
+                                    "ADCChannelConnected": 42,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H87",
+                                        "UniqueKey": 520570376
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 55,
+                                    "RxChannelConnected": 12,
+                                    "ADCChannelConnected": 23,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H80",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": -1389913576
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 55,
+                                    "RxChannelConnected": 12,
+                                    "ADCChannelConnected": 24,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H81",
+                                        "UniqueKey": -1874349144
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 56,
+                                    "RxChannelConnected": 4,
+                                    "ADCChannelConnected": 8,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H82",
+                                        "UniqueKey": -672675464
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 56,
+                                    "RxChannelConnected": 4,
+                                    "ADCChannelConnected": 7,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H83",
+                                        "UniqueKey": -360193848
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 68,
+                                    "RxChannelConnected": 1,
+                                    "ADCChannelConnected": 2,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H84",
+                                        "UniqueKey": 1487355096
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 68,
+                                    "RxChannelConnected": 1,
+                                    "ADCChannelConnected": 1,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H85",
+                                        "UniqueKey": 1707545960
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 69,
+                                    "RxChannelConnected": 21,
+                                    "ADCChannelConnected": 41,
+                                    "InsertionTime": 3660,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H86",
+                                        "UniqueKey": 577204152
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 16,
+                                    "RxChannelConnected": 7,
+                                    "ADCChannelConnected": 14,
+                                    "InsertionTime": 3659,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H32",
+                                        "UniqueKey": -1121961541
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 15,
+                                    "RxChannelConnected": 30,
+                                    "ADCChannelConnected": 60,
+                                    "InsertionTime": 3659,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H30",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": -941593893
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 15,
+                                    "RxChannelConnected": 30,
+                                    "ADCChannelConnected": 59,
+                                    "InsertionTime": 3659,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H31",
+                                        "UniqueKey": -92257429
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 16,
+                                    "RxChannelConnected": 7,
+                                    "ADCChannelConnected": 13,
+                                    "InsertionTime": 3659,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H33",
+                                        "UniqueKey": -2143285237
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 17,
+                                    "RxChannelConnected": 11,
+                                    "ADCChannelConnected": 22,
+                                    "InsertionTime": 3659,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H34",
+                                        "UniqueKey": 845204507
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 17,
+                                    "RxChannelConnected": 11,
+                                    "ADCChannelConnected": 21,
+                                    "InsertionTime": 3659,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H35",
+                                        "UniqueKey": 251717035
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 63,
+                                    "RxChannelConnected": 29,
+                                    "ADCChannelConnected": 58,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H47",
+                                        "UniqueKey": 1757775475
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 51,
+                                    "RxChannelConnected": 8,
+                                    "ADCChannelConnected": 15,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H40",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": -622503325
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 51,
+                                    "RxChannelConnected": 8,
+                                    "ADCChannelConnected": 16,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H41",
+                                        "UniqueKey": -410684461
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 52,
+                                    "RxChannelConnected": 24,
+                                    "ADCChannelConnected": 47,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H42",
+                                        "UniqueKey": -1608185597
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 52,
+                                    "RxChannelConnected": 24,
+                                    "ADCChannelConnected": 48,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H43",
+                                        "UniqueKey": -1656414029
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 62,
+                                    "RxChannelConnected": 15,
+                                    "ADCChannelConnected": 30,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H44",
+                                        "UniqueKey": 795212963
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 62,
+                                    "RxChannelConnected": 15,
+                                    "ADCChannelConnected": 29,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H45",
+                                        "UniqueKey": 302372115
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 63,
+                                    "RxChannelConnected": 29,
+                                    "ADCChannelConnected": 57,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H46",
+                                        "UniqueKey": 1436921795
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 64,
+                                    "RxChannelConnected": 6,
+                                    "ADCChannelConnected": 11,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H48",
+                                        "UniqueKey": -359329374
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 64,
+                                    "RxChannelConnected": 6,
+                                    "ADCChannelConnected": 12,
+                                    "InsertionTime": 3658,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H49",
+                                        "UniqueKey": -671795182
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 67,
+                                    "RxChannelConnected": 20,
+                                    "ADCChannelConnected": 39,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H69",
+                                        "UniqueKey": -1707239143
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 53,
+                                    "RxChannelConnected": 16,
+                                    "ADCChannelConnected": 32,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H60",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": -1758594200
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 53,
+                                    "RxChannelConnected": 16,
+                                    "ADCChannelConnected": 31,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H61",
+                                        "UniqueKey": -1437740328
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 54,
+                                    "RxChannelConnected": 2,
+                                    "ADCChannelConnected": 4,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H62",
+                                        "UniqueKey": -303192056
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 54,
+                                    "RxChannelConnected": 2,
+                                    "ADCChannelConnected": 3,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H63",
+                                        "UniqueKey": -796032584
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 65,
+                                    "RxChannelConnected": 3,
+                                    "ADCChannelConnected": 6,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H64",
+                                        "UniqueKey": 1655528872
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 65,
+                                    "RxChannelConnected": 3,
+                                    "ADCChannelConnected": 5,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H65",
+                                        "UniqueKey": 1607300120
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 66,
+                                    "RxChannelConnected": 19,
+                                    "ADCChannelConnected": 38,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H66",
+                                        "UniqueKey": 409800392
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 66,
+                                    "RxChannelConnected": 19,
+                                    "ADCChannelConnected": 37,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H67",
+                                        "UniqueKey": 621619064
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 67,
+                                    "RxChannelConnected": 20,
+                                    "ADCChannelConnected": 40,
+                                    "InsertionTime": 3657,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H68",
+                                        "UniqueKey": -1487032151
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 20,
+                                    "RxChannelConnected": 13,
+                                    "ADCChannelConnected": 25,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H50",
+                                        "CoilClass": "Head_Rx",
+                                        "UniqueKey": 297372102
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 18,
+                                    "RxChannelConnected": 23,
+                                    "ADCChannelConnected": 46,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H51",
+                                        "UniqueKey": 752459894
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 18,
+                                    "RxChannelConnected": 23,
+                                    "ADCChannelConnected": 45,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H52",
+                                        "UniqueKey": 1803147942
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 19,
+                                    "RxChannelConnected": 31,
+                                    "ADCChannelConnected": 62,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H53",
+                                        "UniqueKey": 1444541206
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 19,
+                                    "RxChannelConnected": 31,
+                                    "ADCChannelConnected": 61,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H54",
+                                        "UniqueKey": -466014458
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 20,
+                                    "RxChannelConnected": 13,
+                                    "ADCChannelConnected": 26,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H70",
+                                        "UniqueKey": 1550919885
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 21,
+                                    "RxChannelConnected": 5,
+                                    "ADCChannelConnected": 9,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H71",
+                                        "UniqueKey": 1628504445
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "MuxChannelConnected": 21,
+                                    "RxChannelConnected": 5,
+                                    "ADCChannelConnected": 10,
+                                    "InsertionTime": 3656,
+                                    "CoilElementID": {
+                                        "CoilID": "HeadNeck_64",
+                                        "CoilCopy": 1,
+                                        "Element": "H55",
+                                        "UniqueKey": -648477002
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 4
+                                    }
+                                }
+                            ],
+                            "FFT_SCALE": [
+                                {
+                                    "Factor": 4.85921287537,
+                                    "ADCChannel": 33,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 5.1173043251,
+                                    "ADCChannel": 54,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.89719009399,
+                                    "ADCChannel": 53,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.97101020813,
+                                    "ADCChannel": 34,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.83080720901,
+                                    "ADCChannel": 44,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.55331373215,
+                                    "ADCChannel": 43,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.67082166672,
+                                    "ADCChannel": 28,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.80661869049,
+                                    "ADCChannel": 52,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.48956918716,
+                                    "ADCChannel": 51,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 5.15765476227,
+                                    "ADCChannel": 36,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.81890535355,
+                                    "ADCChannel": 35,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.46369791031,
+                                    "ADCChannel": 27,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.73857307434,
+                                    "ADCChannel": 64,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.6430683136,
+                                    "ADCChannel": 19,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 5.00401878357,
+                                    "ADCChannel": 20,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.51329851151,
+                                    "ADCChannel": 63,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.75852012634,
+                                    "ADCChannel": 55,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.85681962967,
+                                    "ADCChannel": 17,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.95814418793,
+                                    "ADCChannel": 18,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.90161848068,
+                                    "ADCChannel": 49,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 5.19300079346,
+                                    "ADCChannel": 50,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.82957696915,
+                                    "ADCChannel": 56,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.91829967499,
+                                    "ADCChannel": 42,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.81277227402,
+                                    "ADCChannel": 23,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.98526859283,
+                                    "ADCChannel": 24,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 7.93008708954,
+                                    "ADCChannel": 8,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.72012996674,
+                                    "ADCChannel": 7,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.95936012268,
+                                    "ADCChannel": 2,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.8123550415,
+                                    "ADCChannel": 1,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.61452817917,
+                                    "ADCChannel": 41,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.97520685196,
+                                    "ADCChannel": 14,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.86582326889,
+                                    "ADCChannel": 60,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.76953029633,
+                                    "ADCChannel": 59,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.6044716835,
+                                    "ADCChannel": 13,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.96085786819,
+                                    "ADCChannel": 22,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.80341148376,
+                                    "ADCChannel": 21,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 5.1023311615,
+                                    "ADCChannel": 58,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.72787570953,
+                                    "ADCChannel": 15,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.77216005325,
+                                    "ADCChannel": 16,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.49202251434,
+                                    "ADCChannel": 47,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.79941701889,
+                                    "ADCChannel": 48,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.58520507813,
+                                    "ADCChannel": 30,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.78966236115,
+                                    "ADCChannel": 29,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.82698917389,
+                                    "ADCChannel": 57,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.63588953018,
+                                    "ADCChannel": 11,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.84041118622,
+                                    "ADCChannel": 12,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.84835624695,
+                                    "ADCChannel": 39,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.68580961227,
+                                    "ADCChannel": 32,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.66428565979,
+                                    "ADCChannel": 31,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.70837163925,
+                                    "ADCChannel": 4,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.45735216141,
+                                    "ADCChannel": 3,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.68883609772,
+                                    "ADCChannel": 6,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.53779506683,
+                                    "ADCChannel": 5,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.96732664108,
+                                    "ADCChannel": 38,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.85111713409,
+                                    "ADCChannel": 37,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.86774587631,
+                                    "ADCChannel": 40,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.88583040237,
+                                    "ADCChannel": 25,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.96416473389,
+                                    "ADCChannel": 46,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.81108570099,
+                                    "ADCChannel": 45,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.9239654541,
+                                    "ADCChannel": 62,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.86408519745,
+                                    "ADCChannel": 61,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.82807254791,
+                                    "ADCChannel": 26,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.82101535797,
+                                    "ADCChannel": 9,
+                                    "Valid": 1
+                                },
+                                {
+                                    "Factor": 4.66001987457,
+                                    "ADCChannel": 10,
+                                    "Valid": 1
+                                }
+                            ]
+                        },
+                        {
+                            "IgnoreCoilGroups": 0,
+                            "BCCombineMode": 1,
+                            "SuppressMandatoryProperties": 0,
+                            "BCCombineMatrix": {
+                                "__attribute__": {
+                                    "size": 0
+                                }
+                            },
+                            "List": {
+                                "__attribute__": {
+                                    "size": 8
+                                }
+                            },
+                            "FFT_SCALE": {
+                                "__attribute__": {
+                                    "size": 8
+                                }
+                            }
+                        }
+                    ],
+                    "TxCoilSelectData": [
+                        {
+                            "Nucleus": "1H",
+                            "List": [
+                                {
+                                    "ElementSelected": 1,
+                                    "CoilElementID": {
+                                        "CoilID": "Body",
+                                        "CoilCopy": 1,
+                                        "Element": "BC",
+                                        "UniqueKey": 776254261
+                                    },
+                                    "TxScaleFactorCP": {
+                                        "Re": 0.7071
+                                    },
+                                    "TxScaleFactorEP": {
+                                        "Re": 0.4752
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 1,
+                                        "CoilManufacturer": "Siemens"
+                                    }
+                                },
+                                {
+                                    "ElementSelected": 1,
+                                    "TxChannelConnected": 1,
+                                    "CoilElementID": {
+                                        "CoilID": "Body",
+                                        "CoilCopy": 1,
+                                        "Element": "BC2",
+                                        "UniqueKey": -626865618
+                                    },
+                                    "TxScaleFactorCP": {
+                                        "Im": 0.7071
+                                    },
+                                    "TxScaleFactorEP": {
+                                        "Re": -0.566,
+                                        "Im": 0.6743
+                                    },
+                                    "CoilProperties": {
+                                        "CoilType": 1,
+                                        "CoilManufacturer": "Siemens"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "List": {
+                                "__attribute__": {
+                                    "size": 32
+                                }
+                            }
+                        }
+                    ],
+                    "CoilPlugs": {
+                        "Plug": [
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "IdPart[0]": 255
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "IdPart[0]": 4877
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "IdPart[0]": 4875
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "IdPart[0]": 4876
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "IdPart[0]": 4865
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                },
+                                "IdPart[0]": 4866
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "CoilSelectUI": {
+                    "OverallImageScaleFactor": 1,
+                    "OverallImageScaleCorrectionFactor": 1,
+                    "AutoCoilSelectIlluRangeScale": 0.7,
+                    "RxCoilSelectData": [
+                        {
+                            "IgnoreCoilGroups": 0,
+                            "BCCombineMode": 1,
+                            "SuppressMandatoryProperties": 0,
+                            "BCCombineMatrix": {
+                                "__attribute__": {
+                                    "size": 0
+                                }
+                            },
+                            "List": {
+                                "__attribute__": {
+                                    "size": 8
+                                }
+                            },
+                            "FFT_SCALE": {
+                                "__attribute__": {
+                                    "size": 8
+                                }
+                            }
+                        },
+                        {
+                            "IgnoreCoilGroups": 0,
+                            "BCCombineMode": 1,
+                            "SuppressMandatoryProperties": 0,
+                            "BCCombineMatrix": {
+                                "__attribute__": {
+                                    "size": 0
+                                }
+                            },
+                            "List": {
+                                "__attribute__": {
+                                    "size": 8
+                                }
+                            },
+                            "FFT_SCALE": {
+                                "__attribute__": {
+                                    "size": 8
+                                }
+                            }
+                        }
+                    ],
+                    "TxCoilSelectData": [
+                        {
+                            "List": {
+                                "__attribute__": {
+                                    "size": 32
+                                }
+                            }
+                        },
+                        {
+                            "List": {
+                                "__attribute__": {
+                                    "size": 32
+                                }
+                            }
+                        }
+                    ],
+                    "CoilPlugs": {
+                        "Plug": [
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            },
+                            {
+                                "IdPart": {
+                                    "__attribute__": {
+                                        "size": 8
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "EFISPEC": {
+                    "EFIData": {
+                        "THP_WithB0": {
+                            "__attribute__": {
+                                "size": 5
+                            }
+                        },
+                        "THP_WithoutB0": {
+                            "__attribute__": {
+                                "size": 5
+                            }
+                        },
+                        "THP_EfiDas1": {
+                            "__attribute__": {
+                                "size": 5
+                            }
+                        },
+                        "PhaseshiftAndWeightsPara": {
+                            "__attribute__": {
+                                "size": 4
+                            }
+                        },
+                        "OffsetParameter": {
+                            "OffsetK": {
+                                "__attribute__": {
+                                    "size": 3
+                                }
+                            },
+                            "BOffsetK": {
+                                "__attribute__": {
+                                    "size": 3
+                                }
+                            }
+                        }
+                    }
+                },
+                "WipMemBlock": {
+                    "Free": {
+                        "__attribute__": {
+                            "size": 16
+                        }
+                    },
+                    "Res": {
+                        "__attribute__": {
+                            "size": 3
+                        }
+                    }
+                },
+                "BOLDParadigmArray": {
+                    "__attribute__": {
+                        "size": 256
+                    }
+                },
+                "ParametricMapping": {
+                    "ParametricMap": 1
+                },
+                "IR": {
+                    "MagicID": {
+                        "__attribute__": {
+                            "size": 2
+                        }
+                    },
+                    "Free": {
+                        "__attribute__": {
+                            "size": 16
+                        }
+                    }
+                },
+                "Asl": {
+                    "Mode": 1
+                },
+                "InversionArray": {
+                    "Elm": {
+                        "__attribute__": {
+                            "size": 4
+                        }
+                    }
+                },
+                "Workflow": {
+                    "ConflictSolverStrategy": 1,
+                    "DotVoiceSettingsOverride": 1,
+                    "DotPauseSettingsOverride": 1,
+                    "ConflictSolverData": {
+                        "__attribute__": {
+                            "size": 0
+                        }
+                    }
+                },
+                "DynDistCorrFilter": {
+                    "Mode": 1
+                },
+                "ChannelMatrix": {
+                    "ChannelMixingMode": 1,
+                    "ChannelDiscardMode": 1
+                },
+                "PTXData": {
+                    "PTXTargetMagMode": 1,
+                    "PTXMPRSliceArray": {
+                        "Slice": {
+                            "__attribute__": {
+                                "size": 128
+                            }
+                        },
+                        "SliceAcqOrder": {
+                            "__attribute__": {
+                                "size": 128
+                            }
+                        },
+                        "Asc": {
+                            "__attribute__": {
+                                "size": 128
+                            }
+                        },
+                        "Pos": {
+                            "__attribute__": {
+                                "size": 128
+                            }
+                        },
+                        "TSat": {
+                            "Shape": 1
+                        }
+                    },
+                    "PTXMPRGroupArray": {
+                        "Group": {
+                            "__attribute__": {
+                                "size": 128
+                            }
+                        },
+                        "Member": {
+                            "__attribute__": {
+                                "size": 130
+                            }
+                        },
+                        "PSat": {
+                            "Shape": 1
+                        }
+                    },
+                    "PTXVolume": {
+                        "__attribute__": {
+                            "size": 0
+                        }
+                    }
+                },
+                "InlineCardioEval": {
+                    "InlineEvaMode": 1,
+                    "NoOfPreps": 1,
+                    "RecoveryDuration": {
+                        "__attribute__": {
+                            "size": 1
+                        }
+                    },
+                    "RecoveryDuration[0]": 1,
+                    "SamplingDuration": {
+                        "__attribute__": {
+                            "size": 1
+                        }
+                    },
+                    "SamplingDuration[0]": 1
+                },
+                "Interactive": {
+                    "Tracking": 0,
+                    "SliceFollowing": 1,
+                    "SliceFollowingMode": 1,
+                    "TrackingBackgroundSuppr": 5,
+                    "TrackingSensitivity": 1,
+                    "TrackingFlipAngle": 10,
+                    "Pause": 0,
+                    "Mosaic": 0,
+                    "SkipPhysioTrigger": 0
+                },
+                "DixonData": {
+                    "Dixon": 0,
+                    "DixonEvaluation": 0,
+                    "FastDixon": 0,
+                    "MrDixonOptions": {
+                        "DixonFat": 0,
+                        "DixonWater": 0,
+                        "DixonInPhase": 0,
+                        "DixonOpposedPhase": 0,
+                        "DixonOriginalEchoes": 1
+                    },
+                    "MrDixonEvaluationOptions": {
+                        "DixonEvaWaterFraction": 0,
+                        "DixonEvaFatFraction": 0,
+                        "DixonEvaT2Star": 0,
+                        "DixonEvaR2Star": 0,
+                        "DixonEvaReport": 0
+                    }
+                },
+                "DynmicAdjustVolumes": {
+                    "__attribute__": {
+                        "size": 0
+                    }
+                },
+                "SliceAcceleration": {
+                    "MultiBandFactor": 1,
+                    "FOVShiftFactor": 1
+                }
+            }
+        },
+        "GradientMode": {
+            "index": 46,
+            "VR": "SH",
+            "VM": 1,
+            "value": ""
+        },
+        "FlowCompensation": {
+            "index": 47,
+            "VR": "SH",
+            "VM": 1,
+            "value": "No"
+        },
+        "PostProcProtocol": {
+            "index": 48,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "RFSWDOperationMode": {
+            "index": 49,
+            "VR": "SS",
+            "VM": 1,
+            "value": 0
+        },
+        "RFSWDMostCriticalAspect": {
+            "index": 50,
+            "VR": "SH",
+            "VM": 1,
+            "value": "Head"
+        },
+        "SARMostCriticalAspect": {
+            "index": 51,
+            "VR": "DS",
+            "VM": 3,
+            "value": [
+                3.2,
+                0.16446809,
+                0.0
+            ]
+        },
+        "TablePositionOrigin": {
+            "index": 52,
+            "VR": "SL",
+            "VM": 3,
+            "value": [
+                0,
+                0,
+                -1246
+            ]
+        },
+        "MrProtocol": {
+            "index": 53,
+            "VR": "UN",
+            "VM": 1,
+            "value": null
+        },
+        "MrEvaProtocol": {
+            "index": 54,
+            "VR": "UN",
+            "VM": 1,
+            "value": null
+        },
+        "VFModelInfo": {
+            "index": 55,
+            "VR": "UN",
+            "VM": 1,
+            "value": null
+        },
+        "VFSettings": {
+            "index": 56,
+            "VR": "UN",
+            "VM": 1,
+            "value": null
+        },
+        "AutoAlignData": {
+            "index": 57,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "FmriModelParameters": {
+            "index": 58,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "FmriModelInfo": {
+            "index": 59,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "FmriExternalParameters": {
+            "index": 60,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "FmriExternalInfo": {
+            "index": 61,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "FmriAcquisitionDescriptionSequence": {
+            "index": 62,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "B1rms": {
+            "index": 63,
+            "VR": "DS",
+            "VM": 2,
+            "value": [
+                100.0,
+                0.66972348
+            ]
+        },
+        "B1rmsSupervision": {
+            "index": 64,
+            "VR": "CS",
+            "VM": 1,
+            "value": "NO"
+        },
+        "TalesReferencePower": {
+            "index": 65,
+            "VR": "DS",
+            "VM": 1,
+            "value": 1016.54525
+        },
+        "PhaseSliceOversampling": {
+            "index": 66,
+            "VR": "CS",
+            "VM": 1,
+            "value": "3D"
+        },
+        "SafetyStandard": {
+            "index": 67,
+            "VR": "CS",
+            "VM": 1,
+            "value": "IEC"
+        },
+        "DICOMImageFlavor": {
+            "index": 68,
+            "VR": "CS",
+            "VM": 1,
+            "value": ""
+        },
+        "DICOMAcquisitionContrast": {
+            "index": 69,
+            "VR": "CS",
+            "VM": 1,
+            "value": ""
+        },
+        "EchoTrainLength": {
+            "index": 70,
+            "VR": "IS",
+            "VM": 1,
+            "value": 1
+        },
+        "RFEchoTrainLength": {
+            "index": 71,
+            "VR": "US",
+            "VM": 1,
+            "value": 0
+        },
+        "GradientEchoTrainLength": {
+            "index": 72,
+            "VR": "US",
+            "VM": 1,
+            "value": 1
+        },
+        "Laterality4MF": {
+            "index": 73,
+            "VR": "CS",
+            "VM": 1,
+            "value": "U"
+        },
+        "ArterialSpinLabelingContrast": {
+            "index": 74,
+            "VR": "CS",
+            "VM": 1,
+            "value": null
+        },
+        "ConfigFileInfo": {
+            "index": 75,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "UserDefinedSeries": {
+            "index": 76,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        },
+        "AASpineModelVerificationStatus": {
+            "index": 77,
+            "VR": "SL",
+            "VM": 1,
+            "value": null
+        },
+        "AASpineModelData": {
+            "index": 78,
+            "VR": "UT",
+            "VM": 1,
+            "value": null
+        }
+    },
+    "SeriesWorkflowStatus": "com",
+    "PerformedProcedureStepStartDate": "2018-05-01",
+    "PerformedProcedureStepStartTime": "12:21:57.045000",
+    "PerformedProcedureStepID": "MR20180501122157",
+    "PerformedProcedureStepDescription": "YA_lab^Assi",
+    "CommentsOnThePerformedProcedureStep": "",
+    "Unknown": "A1/IR",
+    "AcquisitionMatrixText": "224*224",
+    "CoilString": "HC1-7;NC1,2",
+    "PATModeText": "p2",
+    "PositivePCSDirections": "+LPH",
+    "phase_encoding_direction": "j-"
+}
